@@ -48,16 +48,7 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 Changes to office hour schedule will be made on the CIS 5650 Calendar and notified through Class Forum.
 
-### [Wayne Wu](https://www.linkedin.com/in/wayne-wu/){:target="_blank"} waynewu@seas.upenn.edu
-
-Office Hours:
-* In-Person: 30 mins after class
-* Online: Tuesday & Thursday 10 - 11AM ([Google Meet Link](https://meet.google.com/rhk-mgrc-eaj))
-* By appointment (email me)
-
-![Wayne Wu](/assets/images/headshots/wayne_wu.jpg){:class="img-headshots"}
-
-### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed-a21a783a/){:target="_blank"} mza@seas.upenn.edu
+### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed/){:target="_blank"} mza@seas.upenn.edu
 
 Office Hours:
 * By appointment (email me)
@@ -66,35 +57,7 @@ Office Hours:
 
 ## Teaching Assistants
 
-### [Chang Liu](https://www.linkedin.com/in/chang-liu-0451a6208/){:target="_blank"} changleu@seas.upenn.edu
-
-Office Hours:
-
-* In-Person: Saturday 2 - 5PM in SIG Lab
-
-![Chang Liu](/assets/images/headshots/chang_liu.jpg){:class="img-headshots"}
-
-### [Shutong Wu](https://www.linkedin.com/in/shutong-wu-214043172/){:target="_blank"} shutong@seas.upenn.edu
-
-Office Hours:
-
-* In-Person: Monday & Wednesday 1 - 3PM in SIG Lab
-
-![Shutong Wu](/assets/images/headshots/shutong_wu.jpg){:class="img-headshots"}
-
-### [Shixuan Fang](https://www.linkedin.com/in/shixuan-fang-4aba78222/){:target="_blank"} shixuanf@seas.upenn.edu
-
-Office Hours:
-
-* In-Person: Tuesday & Thursday 1 - 3PM in SIG Lab
-
-![Shixuan Fang](/assets/images/headshots/shixuan_fang.jpg){:class="img-headshots"}
-
-## Course Advisor
-
-### [Patrick Cozzi](https://www.linkedin.com/in/patrickcozzi/){:target="_blank"}
-
-![Patrick Cozzi](/assets/images/headshots/patrick_cozzi.jpg){:class="img-headshots"}
+TBD
 
 ## Recommended Reading
 
@@ -156,6 +119,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 All former TAs have helped shape this course:
 
 |---|---|---|
+| [Chang Liu](https://www.linkedin.com/in/chang-liu-0451a6208/) | [Shutong Wu](https://www.linkedin.com/in/shutong-wu-214043172/) | [Shixuan Fang](https://www.linkedin.com/in/shixuan-fang-4aba78222/) |
 | [Shubham Sharma](https://www.linkedin.com/in/codeshubham/) | [Rachel Gu](https://www.linkedin.com/in/rgu/) | |
 | [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | [Wayne Wu](https://www.wuwayne.com) |
 | [Hannah Bollar](http://hannahbollar.com/)   | [Youssef Victor](http://youssefvictor.com/)        | [Ziad Ben Hadj-Alouane](https://github.com/ziedbha)  |
