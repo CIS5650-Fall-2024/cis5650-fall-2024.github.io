@@ -15,6 +15,10 @@ permalink: /
 
 ## Course Announcements
 
+### 2023-05-11: Student Survey (Required)
+
+All students who are interested in taking the course (registered, waitlisted, or otherwise) must **complete the [Student Survey](https://forms.office.com/r/n1uTDL8ePJ)** as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
+
 ## Course Description
 
 A timeline section from the following topics:
@@ -44,6 +48,10 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 * Also useful:
   * CIS 3800: Operating Systems
   * CIS 5010: Computer Architecture
+
+### Student Survey (Required)
+
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2024 Student Survey](https://forms.office.com/r/n1uTDL8ePJ).**
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
