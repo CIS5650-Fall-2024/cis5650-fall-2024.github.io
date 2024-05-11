@@ -35,6 +35,12 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
   * **CIS 4610/5610: Advance Rendering**
   * Preferably received an A. Knowledge of rasterization and ray tracing.
 * Strong C or C++.
+* If you have not completed these courses (or equivalents), it is strongly advised that you complete the courses first and take the CIS 5650 course the following year. In case you are unable to take the course in due time for your graduation plans, then it is strongly advised that you thoroughly complete the following projects before starting CIS 5650.
+  * [Ray Tracing in One Weekend](https://github.com/RayTracing/raytracing.github.io/)
+  * WebGPU
+    * [WebGPU Fundamentals](https://github.com/webgpu/webgpufundamentals)
+    * [Your First WebGPU App](https://codelabs.developers.google.com/your-first-webgpu-app)
+    * [Get started with GPU Compute on the web](https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute)
 * Also useful:
   * CIS 3800: Operating Systems
   * CIS 5010: Computer Architecture
