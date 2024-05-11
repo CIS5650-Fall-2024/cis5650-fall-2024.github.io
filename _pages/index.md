@@ -15,6 +15,10 @@ permalink: /
 
 ## Course Announcements
 
+### 2023-05-11: Course Waitlist
+
+Advance registration for CIS 5650 Fall 2024 is full. Please use the Course Waitlist to ensure that you are considered for the course and receive course communication ahead of the Fall semester. Additionally, complete the Student Survey linked below.
+
 ### 2023-05-11: Student Survey (Required)
 
 All students who are interested in taking the course (registered, waitlisted, or otherwise) must **complete the [Student Survey](https://forms.office.com/r/n1uTDL8ePJ)** as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
