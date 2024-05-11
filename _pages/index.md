@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CIS 5650 GPU Programming and Architecture <br> Fall 2023
+title: CIS 5650 GPU Programming and Architecture <br> Fall 2024
 description: >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2023 at the University of Pennsylvania
+  Website for CIS 5650 GPU Programming and Architecture Fall 2024 at the University of Pennsylvania
 hide_description: true
 permalink: /
 ---
@@ -14,14 +14,6 @@ permalink: /
 [![team-9.gif](/assets/images/previous_projects/team-9.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
 
 ## Course Announcements
-
-### 2023-08-13: Registration for CIS 5650 or if you are facing issues
-
-Students who may not have been able to register for the class due to Path at Penn issues can attend the first day of class on Wednesday, August 30 2023 at 5:15pm in Towne 337. Please reach out to the instructors after class ends.
-
-### 2023-08-01: Student Survey
-
-All students who are interested in taking the course (registered, waitlisted, or otherwise) must complete the [Student Survey](#student-survey-required) as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
 
 ## Course Description
 
@@ -47,15 +39,9 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
   * CIS 3800: Operating Systems
   * CIS 5010: Computer Architecture
 
-### Student Survey (Required)
-
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2023 Student Survey](https://forms.office.com/r/bvSYyjD7C2){:target="_blank"}**.
-
 ## Github, Schedule, Class Forum, and LinkedIn
 
-* [**Github**](https://github.com/CIS565-Fall-2023){:target="_blank"}: fork your repos from here
-* [**Ed Discussions**](https://edstem.org/us/courses/43979/discussion/): Class forum
-  * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
+* [**Github**](https://github.com/CIS5650-Fall-2024){:target="_blank"}: fork your repos from here
 * [**LinkedIn Group**](https://www.linkedin.com/groups/6540935/){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturers
@@ -129,7 +115,7 @@ Office Hours:
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) (Coursera free)
 * [Deep Learning Book](https://www.deeplearningbook.org/) (Free to read in HTML)
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-* [All previous CIS 5650](https://cis565-fall-2022.github.io) (https://cis565-fall-20XY.github.io)
+* [All previous CIS 5650](https://cis565-fall-2023.github.io) (https://cis565-fall-20XY.github.io)
 
 ## Grading
 
@@ -158,7 +144,7 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 
 ### COVID Protocols for CIS 5650
 
-* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2023 term.
+* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2024 term.
 * CIS 5650 will be in person and lecture recordings will be made available within 24 hours after the lecture.
 * We will follow University policy for mask use.
 * If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Class Forum.

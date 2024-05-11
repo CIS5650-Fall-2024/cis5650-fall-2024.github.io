@@ -21,7 +21,7 @@ CIS 5650 requires access to an NVIDIA GPU to complete the projects. Most project
   * Any modern NVIDIA GPU supports all projects except DirectX RayTracing.
   * DirectX RayTracing project requires either:
     * A RayTracing GPU (GeForce/Quadro RTX, Tesla T4, or other Turing GPUs) - Recommended.
-    * A GPU that supports software fallback (eg. Maxwell or newer architecture. We'll test this as part of [Project 0](https://github.com/CIS565-Fall-2023/Project0-Getting-Started)) - Works, but not recommended.
+    * A GPU that supports software fallback (eg. Maxwell or newer architecture. We'll test this as part of [Project 0](https://github.com/CIS5650-Fall-2024/Project0-Getting-Started)) - Works, but not recommended.
 
 ## Setup Instructions
 

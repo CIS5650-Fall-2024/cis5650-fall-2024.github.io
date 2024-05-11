@@ -1,4 +1,4 @@
-# CIS 565 GPU Programming and Architecture Fall 2023
+# CIS 5650 GPU Programming and Architecture Fall 2024
 
 This website uses Hydejack Starter Kit, a quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
@@ -7,7 +7,7 @@ This website uses Hydejack Starter Kit, a quicker, cleaner way to get started bl
 ### Running locally (Windows only)
 
 1. Clone repository (git users), or [download] and unzip.
-2. If you don't have Ruby, install from here: https://rubyinstaller.org/ 
+2. If you don't have Ruby, install from here: https://rubyinstaller.org/
 3. Open terminal, `cd` into root directory (where `_config.yml` is located)
 4. Install Bundler if you haven't: `gem install bundler`
 5. Run `bundle install` [^1]

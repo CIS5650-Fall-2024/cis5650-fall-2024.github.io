@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://cis565-fall-2023.github.io
+url:                   https://cis5650-fall-2024.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,11 +24,11 @@ title:                 CIS 5650 <br> GPU Programming and Architecture
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2023 at the University of Pennsylvania
+  Website for CIS 5650 GPU Programming and Architecture Fall 2024 at the University of Pennsylvania
 
 # A shorter description for the sidebar.
 tagline:               >
-  Fall 2023<br>
+  Fall 2024<br>
   University of Pennsylvania<br>
   [Computer Graphics @ Penn](http://cg.cis.upenn.edu/index.html)
 
@@ -42,18 +42,18 @@ logo:                  /assets/icons/upenn.png
 
 # Add links to the sidebar.
 menu:
-  - title:             Course Syllabus and Schedule
-    url:               /syllabus/
+#  - title:             Course Syllabus and Schedule
+#    url:               /syllabus/
   - title:             GitHub - Course Projects
-    url:               https://github.com/CIS565-Fall-2023/
+    url:               https://github.com/CIS5650-Fall-2024/
   - title:             Student Work
     url:               /projects/
-  - title:             Ed Discussion - Class Forum
-    url:               https://edstem.org/us/courses/43979/discussion/
+#  - title:             Ed Discussion - Class Forum
+#    url:
   - title:             Hardware and Software Setup
     url:               /setup/
   - title:             Previous Semesters
-    url:               https://cis565-fall-2022.github.io/
+    url:               https://cis565-fall-2023.github.io/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
