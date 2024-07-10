@@ -46,8 +46,8 @@ menu:
 #    url:               /syllabus/
   - title:             GitHub - Course Projects
     url:               https://github.com/CIS5650-Fall-2024/
-  - title:             Student Work
-    url:               /projects/
+#  - title:             Student Work
+#    url:               /projects/
 #  - title:             Ed Discussion - Class Forum
 #    url:
   - title:             Hardware and Software Setup
