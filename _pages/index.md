@@ -75,7 +75,30 @@ Office Hours:
 
 ## Teaching Assistants
 
-TBD
+### [Han "Andrew" Yang](https://www.linkedin.com/in/andrew-han-yang-0031231a3){:target="_blank"} hanyoung@seas.upenn.edu
+
+Office Hours:
+
+* TBD
+
+![Han Yang](/assets/images/headshots/han_yang.jpg){:class="img-headshots"}
+
+### [Xiaoxiao	"Crytal" Zou](https://www.linkedin.com/in/xiaoxiao-zou-23482a1b9/){:target="_blank"} xizou@seas.upenn.edu
+
+Office Hours:
+
+* TBD
+
+![Crystal Zou](/assets/images/headshots/xiaoxiao_zou.jpg){:class="img-headshots"}
+
+### [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/){:target="_blank"} adityag1@seas.upenn.edu
+
+Office Hours:
+* TBD
+
+![Aditya Gupta](/assets/images/headshots/aditya_gupta.jpg){:class="img-headshots"}
+
+## Course Advisor
 
 ## Recommended Reading
 
