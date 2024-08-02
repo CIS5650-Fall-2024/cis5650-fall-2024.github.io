@@ -48,8 +48,8 @@ menu:
     url:               https://github.com/CIS5650-Fall-2024/
 #  - title:             Student Work
 #    url:               /projects/
-#  - title:             Ed Discussion - Class Forum
-#    url:
+  - title:             Ed Discussion - Class Forum
+    url:               https://edstem.org/us/courses/60839/discussion
   - title:             Hardware and Software Setup
     url:               /setup/
   - title:             Previous Semesters
