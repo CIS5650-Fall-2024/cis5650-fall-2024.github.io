@@ -42,8 +42,8 @@ logo:                  /assets/icons/upenn.png
 
 # Add links to the sidebar.
 menu:
-#  - title:             Course Syllabus and Schedule
-#    url:               /syllabus/
+  - title:             Course Syllabus and Schedule
+    url:               /syllabus/
   - title:             GitHub - Course Projects
     url:               https://github.com/CIS5650-Fall-2024/
 #  - title:             Student Work
