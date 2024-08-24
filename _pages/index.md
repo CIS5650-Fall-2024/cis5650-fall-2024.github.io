@@ -69,6 +69,8 @@ Changes to office hour schedule will be made on the CIS 5650 Calendar and notifi
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed/){:target="_blank"} mza@seas.upenn.edu
 
 Office Hours:
+
+* 60 minutes prior to class and 30 minutes following the end of class
 * By appointment (email me)
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
@@ -79,7 +81,8 @@ Office Hours:
 
 Office Hours:
 
-* TBD
+* Monday - 2:00pm - 3:30pm
+* Friday 2:00pm - 3:00pm
 
 ![Han Yang](/assets/images/headshots/han_yang.jpg){:class="img-headshots"}
 
@@ -87,14 +90,17 @@ Office Hours:
 
 Office Hours:
 
-* TBD
+* Thursday - 10:00am - 11:30am
+* Tuesday - 12:30 - 2:00pm
 
 ![Crystal Zou](/assets/images/headshots/xiaoxiao_zou.jpg){:class="img-headshots"}
 
 ### [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/){:target="_blank"} adityag1@seas.upenn.edu
 
 Office Hours:
-* TBD
+
+* Wednesday - 3:30pm - 5:00pm
+* Thursday - 1:30pm - 3:00pm
 
 ![Aditya Gupta](/assets/images/headshots/aditya_gupta.jpg){:class="img-headshots"}
 
