@@ -70,7 +70,7 @@ Changes to office hour schedule will be made on the CIS 5650 Calendar and notifi
 
 Office Hours:
 
-* 60 minutes prior to class and 30 minutes following the end of class
+* 60 minutes prior to class and 30 minutes following the end of class; Held adjacent to Towne 337.
 * By appointment (email me)
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
@@ -83,6 +83,7 @@ Office Hours:
 
 * Monday - 2:00pm - 3:30pm
 * Friday 2:00pm - 3:00pm
+* Levine 057
 
 ![Han Yang](/assets/images/headshots/han_yang.jpg){:class="img-headshots"}
 
@@ -92,6 +93,7 @@ Office Hours:
 
 * Thursday - 10:00am - 11:30am
 * Tuesday - 12:30 - 2:00pm
+* Levine 057
 
 ![Crystal Zou](/assets/images/headshots/xiaoxiao_zou.jpg){:class="img-headshots"}
 
@@ -101,6 +103,7 @@ Office Hours:
 
 * Wednesday - 3:30pm - 5:00pm
 * Thursday - 1:30pm - 3:00pm
+* Levine 057
 
 ![Aditya Gupta](/assets/images/headshots/aditya_gupta.jpg){:class="img-headshots"}
 
