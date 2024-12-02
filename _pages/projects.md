@@ -19,7 +19,7 @@ Template:
 * Team 1 Project
 
 ![team-2.png](/assets/images/projects/team-2.png){:class="img-final-projects"}
-* Team 2 Project
+* [**Breakpoint**](https://github.com/dgerh/Breakpoint) -- [Daniel Gerhardt](https://www.linkedin.com/in/daniel-gerhardt-bb012722b/), [Dineth Meegoda](https://dinethmeegoda.com/), [Matt Schwartz](https://www.linkedin.com/in/matthew-schwartz-37019016b/), Zixiao Wang
 
 ![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
 * Team 3 Project
