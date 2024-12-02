@@ -30,8 +30,8 @@ Template:
 ![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}
 * Team 5 Project
 
-![team-6.png](/assets/images/projects/team-6.png){:class="img-final-projects"}
-* Team 6 Project
+![team-6.gif](/assets/images/projects/team-6.gif){:class="img-final-projects"}
+* [**Fast Globally Optimal ICP**](https://github.com/zjsun1017/CUDA-Go-ICP) -- [Zhaojin Sun](https://www.linkedin.com/in/zjsun/), [Mufeng Xu](https://www.linkedin.com/in/mufeng-xu/)
 
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
 * Team 7 Project
