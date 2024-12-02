@@ -36,8 +36,8 @@ Template:
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
 * Team 7 Project
 
-![team-8.png](/assets/images/projects/team-8.png){:class="img-final-projects"}
-* Team 8 Project
+![team-8.gif](/assets/images/projects/team-8.gif){:class="img-final-projects"}
+* [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
 
 ![team-9.png](/assets/images/projects/team-9.png){:class="img-final-projects"}
 * Team 9 Project
