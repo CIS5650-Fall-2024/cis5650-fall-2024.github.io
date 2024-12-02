@@ -52,8 +52,8 @@ Template:
 ![team-12.png](/assets/images/projects/team-12.png){:class="img-final-projects"}
 * Team 12 Project
 
-![team-13.png](/assets/images/projects/team-13.png){:class="img-final-projects"}
-* Team 13 Project
+![team-13.png](/assets/images/projects/team-13.gif){:class="img-final-projects"}
+* [**WebGPU-based-Stroke-Rendering**](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering.git) -- [Yifan Lu](http://portfolio.samielouse.icu/index.php/category/featured/), [Annie Qiu](https://github.com/AnnieQiuuu), [Catherine Cheng](https://www.catherine-wanning-cheng.com/projects-1)
 
 ![team-14.png](/assets/images/projects/team-14.png){:class="img-final-projects"}
 * Team 14 Project
