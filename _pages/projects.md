@@ -39,8 +39,9 @@ Template:
 ![team-8.gif](/assets/images/projects/team-8.gif){:class="img-final-projects"}
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
 
-![team-9.png](/assets/images/projects/team-9.png){:class="img-final-projects"}
-* Team 9 Project
+![team-9.jpg](/assets/images/projects/team-9.jpg){:class="img-final-projects"}
+* [**World Space ReSTIR: Real-time GI Based on Hash Grids**](https://github.com/zhiyi1801/CIS-565-2024Fall-Final) -- [Zhiyi Zhou](https://github.com/zhiyi1801), [Jichu Mao](https://github.com/jichumao)
+
 
 ![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
 * Team 10 Project
