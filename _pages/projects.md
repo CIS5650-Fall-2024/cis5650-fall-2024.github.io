@@ -28,7 +28,7 @@ Template:
 * Team 4 Project
 
 ![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}
-* Team 5 Project
+* [**NPR Cloth Sim in WebGPU**](https://github.com/Alan7996/WebGPU-NPR) - [Alan Lee](https://www.alannos.com/), [Jordan Hochman](https://github.com/jhawk0224), [Maya Diaz Huizar](https://github.com/Aorus1)
 
 ![team-6.png](/assets/images/projects/team-6.png){:class="img-final-projects"}
 * Team 6 Project
