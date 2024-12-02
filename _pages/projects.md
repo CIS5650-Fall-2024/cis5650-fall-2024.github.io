@@ -22,7 +22,7 @@ Template:
 * [**Breakpoint**](https://github.com/dgerh/Breakpoint) -- [Daniel Gerhardt](https://www.linkedin.com/in/daniel-gerhardt-bb012722b/), [Dineth Meegoda](https://dinethmeegoda.com/), [Matt Schwartz](https://www.linkedin.com/in/matthew-schwartz-37019016b/), Zixiao Wang
 
 ![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
-* Team 3 Project
+* [**Optisplat**: Optimizing the optimal gaussian splatting projection using CUDA and integrating with wide FOV SLAM.](https://github.com/rahulaggarwal965/cis5650-final-project) -- [Rahul Aggarwal](https://github.com/rahulaggarwal965), [Josh Smith](https://github.com/JoshMSmith44), [Mike Rabbitz](https://github.com/mrabbitz)
 
 ![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
 * Team 4 Project
