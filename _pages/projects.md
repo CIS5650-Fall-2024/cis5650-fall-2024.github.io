@@ -34,7 +34,7 @@ Template:
 * [**Fast Globally Optimal ICP**](https://github.com/zjsun1017/CUDA-Go-ICP) -- [Zhaojin Sun](https://www.linkedin.com/in/zjsun/), [Mufeng Xu](https://www.linkedin.com/in/mufeng-xu/)
 
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
-* Team 7 Project
+* [**Nautilus Engine: Real-Time Ocean Rendering**](https://github.com/yuhanliu-tech/nautilus-engine) -- [Yuhan Liu](https://www.linkedin.com/in/yuhan-liu-/), [Joanna Fisch](https://www.linkedin.com/in/joanna-fisch-bb2979186/), [Nick Liu](https://www.linkedin.com/in/liunicholas6/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ![team-8.gif](/assets/images/projects/team-8.gif){:class="img-final-projects"}
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
