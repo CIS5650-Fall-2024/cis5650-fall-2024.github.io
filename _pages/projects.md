@@ -24,8 +24,8 @@ Template:
 ![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
 * [**Optisplat**: Optimizing the optimal gaussian splatting projection using CUDA and integrating with wide FOV SLAM.](https://github.com/rahulaggarwal965/cis5650-final-project) -- [Rahul Aggarwal](https://github.com/rahulaggarwal965), [Josh Smith](https://github.com/JoshMSmith44), [Mike Rabbitz](https://github.com/mrabbitz)
 
-![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
-* Team 4 Project
+![team-4.png](/assets/images/projects/team-4.gif){:class="img-final-projects"}
+* [**Fabric Forge**]() -- [https://github.com/runjiezhao1/CIS565-Final-Project-Cloth-Simulation] -- [Runjie Zhao](https://www.linkedin.com/in/runjie-zhao-sde/), [Akiko Zhu](https://www.linkedin.com/in/geming-akiko-zhu-b6705a255/)
 
 ![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}
 * [**NPR Cloth Sim in WebGPU**](https://github.com/Alan7996/WebGPU-NPR) - [Alan Lee](https://www.alannos.com/), [Jordan Hochman](https://github.com/jhawk0224), [Maya Diaz Huizar](https://github.com/Aorus1)
