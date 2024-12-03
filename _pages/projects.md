@@ -56,4 +56,4 @@ Template:
 * [**WebGPU-based-Stroke-Rendering**](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering.git) -- [Yifan Lu](http://portfolio.samielouse.icu/index.php/category/featured/), [Annie Qiu](https://github.com/AnnieQiuuu), [Catherine Cheng](https://www.catherine-wanning-cheng.com/projects-1)
 
 ![team-14.png](/assets/images/projects/team-14.png){:class="img-final-projects"}
-* Team 14 Project
+* [**ChessVision**](https://github.com/adithyar262/ChessVision) -- [Manvi Agarwal](https://github.com/manvi27), [Kevin Dong](https://github.com/Kleokhov), [Adithya Rajeev](https://github.com/adithyar262)
