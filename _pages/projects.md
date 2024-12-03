@@ -44,7 +44,7 @@ Template:
 
 
 ![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
-* Team 10 Project
+* [**SDFGI: Real-time SDF-based Global Illumination**](https://github.com/carlos-lopez-garces/SDFGI) -- [Michael Mason](https://github.com/micklemacklemore), [Carlos Lopez Garces](https://carlos-lopez-garces.github.io/), [Logan Cho](https://github.com/logancho)
 
 ![team-11.png](/assets/images/projects/team-11.png){:class="img-final-projects"}
 * Team 11 Project
