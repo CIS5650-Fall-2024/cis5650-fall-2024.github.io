@@ -18,8 +18,8 @@ Template:
 ![team-1.png](/assets/images/projects/team-1.gif){:class="img-final-projects"}
 * [**Citopia**:  Crowd Simulation Featuring Detailed Daily Routines of Diverse NPCs in a City Environment.](https://github.com/dezelyu/Citopia) -- [Deze Lyu](https://apps.apple.com/us/developer/id1412581398), [Paulina Tao](https://www.xinrantao.com/), [Christine Kneer](https://www.christinekneer.com/)
 
-![team-2.png](../assets/images/projects/team-2.png)
-* [**Breakpoint**](https://github.com/dgerh/Breakpoint) -- [Daniel Gerhardt](https://www.linkedin.com/in/daniel-gerhardt-bb012722b/), [Dineth Meegoda](https://dinethmeegoda.com/), [Matt Schwartz](https://www.linkedin.com/in/matthew-schwartz-37019016b/), Zixiao Wang
+![team-2.gif](../assets/images/projects/team-2.gif){:class="img-final-projects"}
+* [**Breakpoint**](https://github.com/dgerh/Breakpoint) -- [Daniel Gerhardt](https://www.linkedin.com/in/daniel-gerhardt-bb012722b/), [Dineth Meegoda](https://dinethmeegoda.com/), [Matt Schwartz](https://www.linkedin.com/in/matthew-schwartz-37019016b/), [Zixiao Wang](https://www.linkedin.com/in/zixiao-wang-826a5a255/)
 
 ![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
 * [**Optisplat**: Optimizing the optimal gaussian splatting projection using CUDA and integrating with wide FOV SLAM.](https://github.com/rahulaggarwal965/cis5650-final-project) -- [Rahul Aggarwal](https://github.com/rahulaggarwal965), [Josh Smith](https://github.com/JoshMSmith44), [Mike Rabbitz](https://github.com/mrabbitz)
