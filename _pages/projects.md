@@ -46,8 +46,8 @@ Template:
 ![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
 * [**SDFGI: Real-time SDF-based Global Illumination**](https://github.com/carlos-lopez-garces/SDFGI) -- [Michael Mason](https://github.com/micklemacklemore), [Carlos Lopez Garces](https://carlos-lopez-garces.github.io/), [Logan Cho](https://github.com/logancho)
 
-![team-11.png](/assets/images/projects/team-11.png){:class="img-final-projects"}
-* Team 11 Project
+![team-11.gif](/assets/images/projects/team-11.gif){:class="img-final-projects"}
+* [**GPU-VPM: CUDA-based Vortex Particle Method for Aerodynamics Simulations**](https://github.com/DomIno0o/CIS5650-Final-Project-GPU-VPM) -- [Dominik Kau](https://www.linkedin.com/in/dominikkau/ ), [Nadine Adnane](https://www.linkedin.com/in/nadnane/), [Shreyas Singh](https://linkedin.com/in/shreyassinghiitr)
 
 ![team-12.png](/assets/images/projects/team-12.png){:class="img-final-projects"}
 * Team 12 Project
