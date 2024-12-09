@@ -43,7 +43,7 @@ Template:
 * [**World Space ReSTIR: Real-time GI Based on Hash Grids**](https://github.com/zhiyi1801/CIS-565-2024Fall-Final) -- [Zhiyi Zhou](https://github.com/zhiyi1801), [Jichu Mao](https://github.com/jichumao)
 
 
-![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
+![team-10.png](/assets/images/projects/SDFGI.png){:class="img-final-projects"}
 * Team 10 Project
 
 ![team-11.png](/assets/images/projects/team-11.png){:class="img-final-projects"}
