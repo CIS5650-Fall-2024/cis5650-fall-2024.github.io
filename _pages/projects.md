@@ -34,7 +34,7 @@ Template:
 * Team 6 Project
 
 ![team-7.png](/assets/images/projects/team-7.png){:class="img-final-projects"}
-* [**Nautilus Engine: Real-Time Ocean Rendering**](https://github.com/yuhanliu-tech/nautilus-engine) -- [Yuhan Liu](https://www.linkedin.com/in/yuhan-liu-/), [Joanna Fisch](https://www.linkedin.com/in/joanna-fisch-bb2979186/), [Nick Liu](https://www.linkedin.com/in/liunicholas6/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [**Spectral Sea: Real-Time Ocean Rendering**](https://github.com/yuhanliu-tech/spectral-sea) -- [Yuhan Liu](https://www.linkedin.com/in/yuhan-liu-/), [Joanna Fisch](https://www.linkedin.com/in/joanna-fisch-bb2979186/), [Nick Liu](https://www.linkedin.com/in/liunicholas6/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ![team-8.gif](/assets/images/projects/team-8.gif){:class="img-final-projects"}
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
