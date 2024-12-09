@@ -42,8 +42,7 @@ Template:
 ![team-9.jpg](/assets/images/projects/team-9.jpg){:class="img-final-projects"}
 * [**World Space ReSTIR: Real-time GI Based on Hash Grids**](https://github.com/zhiyi1801/CIS-565-2024Fall-Final) -- [Zhiyi Zhou](https://github.com/zhiyi1801), [Jichu Mao](https://github.com/jichumao)
 
-
-![team-10.png](/assets/images/projects/team-10.png){:class="img-final-projects"}
+![team-10.png](/assets/images/projects/SDFGI.png){:class="img-final-projects"}
 * [**SDFGI: Real-time SDF-based Global Illumination**](https://github.com/carlos-lopez-garces/SDFGI) -- [Michael Mason](https://github.com/micklemacklemore), [Carlos Lopez Garces](https://carlos-lopez-garces.github.io/), [Logan Cho](https://github.com/logancho)
 
 ![team-11.gif](/assets/images/projects/team-11.gif){:class="img-final-projects"}
