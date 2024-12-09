@@ -27,8 +27,8 @@ Template:
 ![team-4.png](/assets/images/projects/team-4.gif){:class="img-final-projects"}
 * [**Fabric Forge**]() -- [https://github.com/runjiezhao1/CIS565-Final-Project-Cloth-Simulation] -- [Runjie Zhao](https://www.linkedin.com/in/runjie-zhao-sde/), [Akiko Zhu](https://www.linkedin.com/in/geming-akiko-zhu-b6705a255/)
 
-![team-5.png](/assets/images/projects/team-5.png){:class="img-final-projects"}
-* [**NPR Cloth Sim in WebGPU**](https://github.com/Alan7996/WebGPU-NPR) - [Alan Lee](https://www.alannos.com/), [Jordan Hochman](https://github.com/jhawk0224), [Maya Diaz Huizar](https://github.com/Aorus1)
+![team-5.JPG](/assets/images/projects/team-5.JPG){:class="img-final-projects"}
+* [**WebNPR**](https://github.com/Alan7996/WebGPU-NPR) - [Alan Lee](https://www.alannos.com/), [Jordan Hochman](https://github.com/jhawk0224), [Maya Diaz Huizar](https://github.com/Aorus1)
 
 ![team-6.gif](/assets/images/projects/team-6.gif){:class="img-final-projects"}
 * [**Fast Globally Optimal ICP**](https://github.com/zjsun1017/CUDA-Go-ICP) -- [Zhaojin Sun](https://www.linkedin.com/in/zjsun/), [Mufeng Xu](https://www.linkedin.com/in/mufeng-xu/)
