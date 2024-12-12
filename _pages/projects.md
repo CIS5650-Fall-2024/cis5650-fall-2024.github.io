@@ -12,6 +12,7 @@ permalink: /projects/
 <!--
 Template:
 ![team-1.jpg](/assets/images/projects/team-1.jpg){:class="img-final-projects"} (can also use gifs)
+
 * [**Project Title**](project-link) -- [Team Member 1 Name](team-member-1-website), [Team Member 2 Name](team-member-2-website), [Team Member 2 Name](team-member-2-website)
 -->
 
@@ -48,8 +49,8 @@ Template:
 ![team-11.gif](/assets/images/projects/team-11.gif){:class="img-final-projects"}
 * [**GPU-VPM: CUDA-based Vortex Particle Method for Aerodynamics Simulations**](https://github.com/DomIno0o/CIS5650-Final-Project-GPU-VPM) -- [Dominik Kau](https://www.linkedin.com/in/dominikkau/ ), [Nadine Adnane](https://www.linkedin.com/in/nadnane/), [Shreyas Singh](https://linkedin.com/in/shreyassinghiitr)
 
-![team-12.png](/assets/images/projects/team-12.png){:class="img-final-projects"}
-* Team 12 Project
+![team-12.gif](/assets/images/projects/team-12.gif){:class="img-final-projects"}
+* [**Real-Time Talking Head**](https://github.com/hazard-10/LivePortrait) -- [Jay Mao](https://www.linkedin.com/in/jay-jiahang-m-b05608192/), [Yin Tang](https://www.linkedin.com/in/yin-tang-jackeyty/), [Yi Liu](https://www.linkedin.com/in/yi-liu-1198a8340/)
 
 ![team-13.png](/assets/images/projects/team-13.gif){:class="img-final-projects"}
 * [**WebGPU-based-Stroke-Rendering**](https://github.com/lyifaxxx/WebGPU-based-Stroke-Rendering.git) -- [Yifan Lu](http://portfolio.samielouse.icu/index.php/category/featured/), [Annie Qiu](https://github.com/AnnieQiuuu), [Catherine Cheng](https://www.catherine-wanning-cheng.com/projects-1)
