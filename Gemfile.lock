@@ -104,7 +104,7 @@ GEM
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    webrick (1.7.0)
+    webrick (1.8.2)
 
 PLATFORMS
   ruby
@@ -127,7 +127,7 @@ DEPENDENCIES
   jekyll-titles-from-headings
   liquid (~> 4.0, >= 4.0.4)
   tzinfo-data
-  webrick (~> 1.7)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.9
